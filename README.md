@@ -1,2 +1,2 @@
 # new_repo
-test
+The Readme md is updated
