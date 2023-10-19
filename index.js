@@ -1,8 +1,5 @@
-console.log("hello world");
-console.log("hello world");
-console.log("hello world");
 
-function hello(){
+function hello(){ //2 time
     console.log("hi");
 }
 
